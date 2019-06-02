@@ -99,7 +99,7 @@ Graded according to the [Project Rubric](https://review.udacity.com/#!/rubrics/2
 * Truffle v5.0.3
 * OpenZeppelin v2.1.2
 
-	## Token details
+## Token details
 
 * ERC-721 Token Name: Star Notary Token
 * ERC-721 Token Symbol: SNT
