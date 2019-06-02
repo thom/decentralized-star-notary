@@ -1,4 +1,4 @@
-# Project 5: Decentralized Star Notary
+# Udacity Blockchain Developer Nanodegree Program - Project 5: Decentralized Star Notary
 
 ## Getting Started
 
