@@ -104,3 +104,8 @@ Graded according to the [Project Rubric](https://review.udacity.com/#!/rubrics/2
 * ERC-721 Token Name: Star Notary Token
 * ERC-721 Token Symbol: SNT
 * Token Address on the Rinkeby Network: [0x611c1327F1A2dEc47e64e40Ee0BA02FD1b5f6d57](https://rinkeby.etherscan.io/address/0x611c1327F1A2dEc47e64e40Ee0BA02FD1b5f6d57)
+
+## License
+
+- **[MIT license](http://opensource.org/licenses/mit-license.php)**
+- Copyright 2019 © <a href="https://github.com/thom" target="_blank">Thomas Weibel</a>.
